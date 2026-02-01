@@ -15,7 +15,7 @@ I build intelligent software systems, explore machine learning, and sharpen my p
 
 ## 📊 GitHub Stats
 
-![GitHub Grade](https://github-readme-stats-three-beta-66.vercel.app/api?username=michael-gt-12&show_icons=true&theme=tokyonight&rank_icon=github)
+![GitHub Grade](https://camo.githubusercontent.com/41d643ff0f399f520b679ccb9d5a2c1f5e0e89e847852bb294988efb7447f081/68747470733a2f2f6769746875622d726561646d652d73746174732d74687265652d626574612d36362e76657263656c2e6170702f6170693f757365726e616d653d6d69636861656c2d67742d31322673686f775f69636f6e733d74727565267468656d653d746f6b796f6e696768742672616e6b5f69636f6e3d676974687562)
 
 <img alt = "languages" style = "width:450px" src = "https://github-readme-stats-three-beta-66.vercel.app/api/top-langs/?username=michael-gt-12&layout=compact&theme=tokyonight">
 
